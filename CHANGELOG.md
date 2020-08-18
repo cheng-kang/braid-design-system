@@ -1,5 +1,17 @@
 # braid-design-system
 
+## 29.3.0
+
+### Minor Changes
+
+- **ContentBlock:** Add support for xsmall & small widths ([#735](https://github.com/seek-oss/braid-design-system/pull/735))
+
+  **EXAMPLE USAGE**
+
+  ```jsx
+  <ContentBlock width="small">...</ContentBlock>
+  ```
+
 ## 29.2.2
 
 ### Patch Changes
